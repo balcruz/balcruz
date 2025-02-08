@@ -2,6 +2,8 @@
 
 ### <p align="center"> Hey there! I'm Bernardo</p>
 
+----------------------------------------------
+
 #### <p align="center"> &nbsp; 👨‍🎓 Sr. Software Engineer &nbsp; | &nbsp; Engineering Manager &nbsp; | &nbsp; Statistician ✈ &nbsp; </p>
 
 
