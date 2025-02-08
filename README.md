@@ -9,7 +9,7 @@
 
 <p align="center">
     Engineering leader with 20+ years of experience building distributed systems and scalable platforms. Passionate about high-performance computing, distributed systems, and building great engineering teams.
-  Skilled in multiple programming languages like Erlang, Elixir, Python, JavaScript, C, C++, and more. My expertise extends to and beyond, DevOps, Development (Full Stack Software Engineer), and more.
+  Skilled in multiple programming languages like Erlang, Elixir, Python, C, C++, R, JavaScript, and more. My expertise extends to and beyond, DevOps, Development (Full Stack Software Engineer), and more.
 </p>
 
 ----------------------------------------------
