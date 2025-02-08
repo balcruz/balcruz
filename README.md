@@ -18,15 +18,10 @@
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=balcruz&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=balcruz&theme=tokyonight&no-frame=true&row=2&column=3&&margin-w=30&no-bg=true">
 </p>
 
 <!-- Most Used Languages with modern design -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balcruz&theme=tokyonight&hide_border=true&layout=compact">
-</p>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/balcruz/count.svg" />
 </p>
