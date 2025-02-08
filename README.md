@@ -1,5 +1,17 @@
 <h1 align="center">Hi there! 👋</h1>
 
+### <p align="center"> Hey there! I'm Bernardo</p>
+
+#### <p align="center"> &nbsp; 👨‍🎓 Sr. Software Engineer &nbsp; | &nbsp; Engineering Manager &nbsp; | &nbsp; Statistician ✈ &nbsp; </p>
+
+
+<p align="center">
+    Engineering leader with 20+ years of experience building distributed systems and scalable platforms. Passionate about high-performance computing, distributed systems, and building great engineering teams.
+  Skilled in multiple programming languages like Erlang, Elixir, Python, JavaScript, C, C++, and more. My expertise extends to and beyond, DevOps, Development (Full Stack Software Engineer), and more.
+</p>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <!-- Animated Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Sr+Software+Engineer/Engineering Manager;Passionate+about+technology;Always+learning+something+new&center=true&width=380&height=45">
