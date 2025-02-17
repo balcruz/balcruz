@@ -4,7 +4,7 @@
 
 ----------------------------------------------
 
-#### <p align="center"> &nbsp; 👨‍🎓 Sr. Software Engineer &nbsp; | &nbsp; Engineering Manager &nbsp; | &nbsp; Statistician ✈ &nbsp; </p>
+#### <p align="center"> &nbsp; 👨‍🎓 Sr. Software Engineer &nbsp; | &nbsp; Engineering Manager &nbsp; | &nbsp; Statistician 📈 &nbsp; </p>
 
 
 <p align="center">
