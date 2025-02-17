@@ -1,6 +1,4 @@
-<h1 align="center">Hi there! 👋</h1>
-
-### <p align="center"> Hey there! I'm Bernardo</p>
+<h1 align="center">Hi there! 👋 I'm Bernardo Alvez</h1>
 
 ----------------------------------------------
 
