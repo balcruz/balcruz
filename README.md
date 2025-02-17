@@ -25,11 +25,6 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=balcruz&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- 3D Contribution Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=balcruz&theme=react-dark">
-</p>
-
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=balcruz&theme=tokyonight&no-frame=true&row=2&column=3&&margin-w=30&no-bg=true">
