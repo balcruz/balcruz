@@ -12,11 +12,6 @@
 
 ----------------------------------------------
 
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Sr+Software+Engineer/Engineering Manager;Passionate+about+technology;Always+learning+something+new&center=true&width=380&height=45">
-</p>
-
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=balcruz&theme=tokyonight&no-frame=true&row=2&column=3&&margin-w=30&no-bg=true">
